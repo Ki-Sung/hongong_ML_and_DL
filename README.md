@@ -1,1 +1,1 @@
-# hongong_ML_and_DL
+# Hongong Machin Learning and Deep Learning chapter 1
