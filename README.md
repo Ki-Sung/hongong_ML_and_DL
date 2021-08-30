@@ -23,4 +23,4 @@
   - 사용할 알고리즘은 K-최근접 이웃(KNeighborsClassifier) 알고리즘
   - K-최근접 이웃(KNeighborsClassifier) 알고리즘은 주변의 5개의 데이터를 보고 다수결의 원칙에 따라 데이터를 예측함.
 - 결과
-  - K-최근접 이웃(KNeighborsClassifier) 알고리즘의 매개변수 기본값 5(n_neighbors=5)를 설정하고 모델을 사용한 결과 도미와 빙어 데이터를 모두 완벽하게 맞혔음 (정확도: 1.0(100%))
+  - K-최근접 이웃(KNeighborsClassifier) 알고리즘의 매개변수 기본값 5(n_neighbors=5)를 설정하고 모델을 사용한 결과 도미와 빙어 데이터를 모두 완벽하게 맞혔음 (정확도: 1.0(100%)
