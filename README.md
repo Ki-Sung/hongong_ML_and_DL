@@ -3,8 +3,10 @@
 - [chapter 1 - 나의 첫 머신러닝](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap1)
   1) 머신러닝과 딥러닝의 역사와 개념
   2) 첫 번째 머신러닝 **KNeighborsClassifier(k-최근접 이웃 알고리즘)** 소개와 예제
-
-## Chapter 1 Folder
+- [chapter 2 - 데이터 다루기](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap2)
+  1) 훈련 세트와 테스트 세트
+  2) 데이터 전처리
+## Chapter 1 
 ### Market & Machine Learning
 - 도미와 빙어의 데이터셋으로 첫 번째 머신러닝 기법인 K-최근접 이웃 알고리즘을 이해하고 사용해보기
 #### * 책 페이지: "혼자공부하는 머신러닝 + 딥러닝" P44 ~ P64
