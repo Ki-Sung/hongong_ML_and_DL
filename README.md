@@ -1,5 +1,9 @@
 # Hongong Machin Learning and Deep Learning chapter 1
 
+### AI & Machine Learning, Deep Learning
+- 인공지능 역사와 머신러닝과 딥러닝 정의 
+#### * 책 페이지: ""혼자공부하는 머신러닝 + 딥러닝" P26 ~ P31
+
 ### Market & Machine Learning
 - 도미와 빙어의 데이터셋으로 첫 번째 머신러닝 기법인 K-최근접 이웃 알고리즘을 이해하고 사용해보기
 #### * 책 페이지: "혼자공부하는 머신러닝 + 딥러닝" P44 ~ P64
