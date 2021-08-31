@@ -1,4 +1,7 @@
 # hongong_ML_and_DL
+
+<img src="https://user-images.githubusercontent.com/80456601/131448592-21afcb85-2387-42fa-849f-a978d45cf558.png" width="40%" height="40%"/>
+
 #### 폴더 소개 및 순서
 - [chapter 1 - 나의 첫 머신러닝](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap1)
   1) 머신러닝과 딥러닝의 역사와 개념
