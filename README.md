@@ -9,3 +9,5 @@
 - [chapter 2 - 데이터 다루기](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap2)
   1) [훈련 세트와 테스트 세트](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap2/2-1_training_set_and_test_set.ipynb)
   2) [데이터 전처리](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap2/2-2_preprocessing_dataset.ipynb)
+- [chapter 3 - 회귀 알고리즘과 모델 규제](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap3)
+  1) [K-최근접 이웃 회귀](https://github.com/Ki-Sung/hongong_ML_and_DL/blob/chap3/3-1_KNeighborsRegressor.ipynb)
