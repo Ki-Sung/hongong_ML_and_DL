@@ -11,3 +11,4 @@
   2) [데이터 전처리](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap2/2-2_preprocessing_dataset.ipynb)
 - [chapter 3 - 회귀 알고리즘과 모델 규제](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap3)
   1) [K-최근접 이웃 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap3/3-1_KNeighborsRegressor.ipynb)
+  2) [선형 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_3/3-2_LinearRegression.ipynb)
