@@ -13,3 +13,5 @@
   1) [K-최근접 이웃 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap3/3-1_KNeighborsRegressor.ipynb)
   2) [선형 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_3/3-2_LinearRegression.ipynb)
   3) [특성 공학과 규제](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_3/3-3_Feature_Engineering_and_Regularization.ipynb)
+- [chapter 4 - 다양한 분류 알고리즘](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap4)
+  1) [로지스틱 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap4/4-1_Logistic_Regression.ipynb)
