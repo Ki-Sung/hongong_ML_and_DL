@@ -1,15 +1,19 @@
-# hongong_ML_and_DL
-
-<img src="https://user-images.githubusercontent.com/80456601/131448592-21afcb85-2387-42fa-849f-a978d45cf558.png" width="40%" height="40%"/>
-
-### 폴더 소개 및 순서
-- [chapter 1 - 나의 첫 머신러닝](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap1)
-  1) [머신러닝과 딥러닝의 역사와 개념](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap1/01_Machin_Learning_and_Deep_Learning.ipynb)
-  2) [첫 번째 머신러닝 **KNeighborsClassifier(k-최근접 이웃 알고리즘)** 소개와 예제](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap1/02_market_and_machine_learning.ipynb)
-- [chapter 2 - 데이터 다루기](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap2)
-  1) [훈련 세트와 테스트 세트](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap2/2-1_training_set_and_test_set.ipynb)
-  2) [데이터 전처리](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap2/2-2_preprocessing_dataset.ipynb)
-- [chapter 3 - 회귀 알고리즘과 모델 규제](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap3)
-  1) [K-최근접 이웃 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap3/3-1_KNeighborsRegressor.ipynb)
-  2) [선형 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_3/3-2_LinearRegression.ipynb)
-  3) [특성 공학과 규제](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_3/3-3_Feature_Engineering_and_Regularization.ipynb)
+# Hongong Machin Learning and Deep Learning chapter 4
+## 4-1. 로지스틱 회귀 
+#### * 책 페이지: "혼자공부하는 머신러닝 + 딥러닝" P176 ~ P198
+#### * 참고 코드: "4-1_Logistic_Regression.ipynb"
+### 과정 
+- 럭키백 확률
+  - 데이터 준비하기
+  - K-최근접 이웃 분류기의 확률 예측
+- 로지스틱 회귀 
+  - 로지스틱 회귀로 이진 분류 수행하기
+  - 로지스틱 회귀로 다중 분류 수행하기
+### 정리 및 결론
+- 과정 정리 
+  - 이번 공부는 럭키백에 담긴 생선이 어떤 생선인지 확률을 예측하는 것이었다.
+  - K-최근접 이웃 모델의 확률을 출력할 수 있지만 이웃한 샘플의 클래스 비율이므로 항상 정해진 확률만 출력한다.
+  - 이를 위해 가장 대표적인 분류 알고리즘 중 하나인 로지스틱 회귀를 사용하였다. 로지스틱 회귀는 회귀 모델이 아닌 분류 모델이다.
+  - 로지스틱 회귀는 선형 회귀 처럼 선형 방정식을 사용하지만 선형 회귀처럼 계산한 값을 그대로 출력하는 것이 아니라, 0 - 1 사이로 압축을 한다.
+  - 로지스틱 회귀 이진 분류에서는 하나의 선형 방정식을 훈련한다. 이 방정식의 출력값을 시그모이드 함수에 통과시켜 0 - 1 사이의 값을 만든다. 이 값이 양성 클래스에 대한 확률이다. 음성 클래스의 확률은 1에서 양성 클래스의 확률을 빼면 된다.
+  - 다중 분류일 경우 클래스 개수만큼 방정식을 훈련한다. 그다음 각 방정식의 출력밧을 소프트맥스 함수를 통과시켜 전체 클래스에 대한 합이 항상 1이 되도록 만든다. 이 값을 각 클래스에 대한 확률로 이해할 수 있다.
