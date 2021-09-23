@@ -15,3 +15,4 @@
   3) [특성 공학과 규제](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_3/3-3_Feature_Engineering_and_Regularization.ipynb)
 - [chapter 4 - 다양한 분류 알고리즘](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap4)
   1) [로지스틱 회귀](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap4/4-1_Logistic_Regression.ipynb)
+  2) [확률적 경사 하강법](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_4/4-2_Stochastic%20Gradient%20Descent.ipynb)
