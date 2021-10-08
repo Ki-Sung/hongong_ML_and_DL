@@ -20,3 +20,6 @@
   1) [결정 트리](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap5/5-1_decision_tree.ipynb) 
   2) [교차 검증과 그리드 서치](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_5/5-2_Cross_Validation_and_Grid_search.ipynb)
   3) [트리의 앙상블](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_5/5-3_Tree_Ensemble.ipynb)
+- chapter 6 - 비지도 학습
+  1) 군집 알고리즘 
+ 
