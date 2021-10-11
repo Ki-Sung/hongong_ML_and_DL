@@ -22,4 +22,4 @@
   3) [트리의 앙상블](https://nbviewer.jupyter.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_5/5-3_Tree_Ensemble.ipynb)
 - [chapter 6 - 비지도 학습](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap6)
   1) [군집 알고리즘](https://nbviewer.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap6/6_1_Clustering_Algorithm.ipynb) 
- 
+  2) [K-평균](https://nbviewer.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_6/6_2_K_Means.ipynb)
