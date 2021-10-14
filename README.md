@@ -23,3 +23,4 @@
 - [chapter 6 - 비지도 학습](https://github.com/Ki-Sung/hongong_ML_and_DL/tree/chap6)
   1) [군집 알고리즘](https://nbviewer.org/github/Ki-Sung/hongong_ML_and_DL/blob/chap6/6_1_Clustering_Algorithm.ipynb) 
   2) [K-평균](https://nbviewer.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_6/6_2_K_Means.ipynb)
+  3) [주성분 분석](https://nbviewer.org/github/Ki-Sung/hongong_ML_and_DL/blob/main/chapter_6/6_3_PCA%28Principal_Component_Analysis%29.ipynb)
